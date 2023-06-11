@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\khan\Desktop\Project\Project1\Project1\Source.cpp(327,14): warning C4101: 'keypress': unreferenced local variable
+C:\Users\khan\Desktop\Project\Project1\Project1\Source.cpp(445,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khan\Desktop\Project\Project1\Project1\Source.cpp(602,75): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\khan\Desktop\Project\Project1\x64\Debug\Project1.exe
